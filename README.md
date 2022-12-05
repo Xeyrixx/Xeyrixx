@@ -3,18 +3,18 @@
 </p>
 <h1 align="center">XeyrixBot - MD</h1>
 <p align="center">
-  <a href="https://github.com/yanz5008"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Lala+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+yanz5008;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/Xeyrixx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Xeyrix+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+yanz5008;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
  <a href="#"><img title="XeyrixBOT" src="https://img.shields.io/badge/Lala BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Yanz5008"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Ryan-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Xeyrixx"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Ryan-blue.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285752235008">
+  <a href="https://wa.me/6281280020649">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/yanz_5008">

@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/c1dde3fe8d5d231672299.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">LalaBOT - MD</h1>
+<h1 align="center">XeyrixBot - MD</h1>
 <p align="center">
   <a href="https://github.com/yanz5008"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Lala+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+yanz5008;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>

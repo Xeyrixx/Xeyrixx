@@ -34,33 +34,33 @@
 #### KELEBIHAN 🪄
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/yanz5008) |
-| **No Internet** |[✔️](https://github.com/yanz5008) |
-| **Simple** |[✔️](https://github.com/yanz5008) |
-| **Button template** |[✔️](https://github.com/yanz5008) |
-| **Multi Device** |[✔️](https://github.com/yanz5008) |
+| **Fast Respon** |[✔️](https://github.com/Xeyrixx) |
+| **No Internet** |[✔️](https://github.com/Xeyrixx) |
+| **Simple** |[✔️](https://github.com/Xeyrixx) |
+| **Button template** |[✔️](https://github.com/Xeyrixx) |
+| **Multi Device** |[✔️](https://github.com/Xeyrixx) |
 ---------
 #### FITUR 🎀
 | Fitur | Check |
 |--------|--------|
-| **Sticker** |[✔️](https://github.com/yanz5008) |
-| **Group** |[✔️](https://github.com/yanz5008) |
-| **Download** |[✔️](https://github.com/yanz5008) |
-| **Internet** |[✔️](https://github.com/yanz5008) |
-| **Game** |[✔️](https://github.com/yanz5008) |
-| **Game Rpg** |[✔️](https://github.com/yanz5008) |
-| **Fun** |[✔️](https://github.com/yanz5008) |
-| **Quotes** |[✔️](https://github.com/yanz5008) |
-| **Tools** |[✔️](https://github.com/yanz5008) |
-| **Anime** |[✔️](https://github.com/yanz5008) |
-| **Nsfw 18+** |[✔️](https://github.com/yanz5008) |
-| **Nulis & logo** |[✔️](https://github.com/yanz5008) |
-| **Anonymous** |[✔️](https://github.com/yanz5008) |
-| **Al Quran** |[✔️](https://github.com/yanz5008) |
-| **Exp & Limit** |[✔️](https://github.com/yanz5008) |
-| **Info** |[✔️](https://github.com/yanz5008) |
-| **Owner** |[✔️](https://github.com/yanz5008) |
-| **Bug & Virus** |[✔️](https://github.com/yanz5008) |
+| **Sticker** |[✔️](https://github.com/Xeyrixx) |
+| **Group** |[✔️](https://github.com/Xeyrixx) |
+| **Download** |[✔️](https://github.com/Xeyrixx) |
+| **Internet** |[✔️](https://github.com/Xeyrixx) |
+| **Game** |[✔️](https://github.com/Xeyrixx) |
+| **Game Rpg** |[✔️](https://github.com/Xeyrixx) |
+| **Fun** |[✔️](https://github.com/Xeyrixx) |
+| **Quotes** |[✔️](https://github.com/Xeyrixx) |
+| **Tools** |[✔️](https://github.com/Xeyrixx) |
+| **Anime** |[✔️](https://github.com/Xeyrixx) |
+| **Nsfw 18+** |[✔️](https://github.com/Xeyrixx) |
+| **Nulis & logo** |[✔️](https://github.com/Xeyrixx) |
+| **Anonymous** |[✔️](https://github.com/Xeyrixx) |
+| **Al Quran** |[✔️](https://github.com/Xeyrixx) |
+| **Exp & Limit** |[✔️](https://github.com/Xeyrixx) |
+| **Info** |[✔️](https://github.com/Xeyrixx) |
+| **Owner** |[✔️](https://github.com/Xeyrixx) |
+| **Bug & Virus** |[✔️](https://github.com/Xeyrixx) |
 ---------
 
 ## `SETTING`
